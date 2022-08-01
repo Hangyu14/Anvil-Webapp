@@ -1,0 +1,23 @@
+self.button_1 -> Plot button
+self.button_2 -> Download button
+self.button_3 -> Get files list button
+self.button_4 -> New selection button
+self.button_5 -> Select all button (select all files from drop_down_2)
+
+self.drop_down_1 -> Drop down menu of parameter 1's values
+self.drop_down_2 -> Drop down menu of files which statisfied two conditions
+self.drop_down_3 -> Drop down menu of parameter 1
+self.drop_down_4 -> Drop down menu of parameter 2
+
+self.content_panel -> Display all blocks
+
+self.card_1 -> Block of parameter 1
+self.card_2 -> Block of parameter 2
+self.card_3 -> Block of files
+
+self.flow_panel_1 -> Block of selected files
+self.flow_panel_2 -> Block of selected files
+self.flow_panel_3 -> Block of plot
+
+self.image_1 -> Display plot
+
