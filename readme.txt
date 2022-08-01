@@ -10,7 +10,7 @@ Part 1: Run the interface
     (b) the Log in website will be automatically opened in the brower
         --> option 1: sign up for a new account using your email 
             (new account can be used right away after you click the activate link in the confirm email)
-        --> option 2: use my account (email: liuhangyu4159@gmail.com password: 123456)
+        --> option 2: use my account (email: xxxxxx@gmail.com password: xxxxxx)
         --> Note: we can manage the user informtion using the anvil server
     (c) In the first block, choose the Parameter 1 and its value from the drop down menu
     (d) In the second block, choose the Parameter 2 from the drop down menu and enter its range
